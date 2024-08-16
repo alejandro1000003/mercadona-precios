@@ -13,3 +13,5 @@ El script incluye algunas cookies generadas automáticamente por el sitio web de
 ## Requisitos
 - playwright 1.46.0
 - node v16.20.2 o superior
+
+![prueba](https://github.com/user-attachments/assets/cef88ca6-d501-4117-adb5-6124cb953012)
