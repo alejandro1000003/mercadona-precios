@@ -1,5 +1,5 @@
 # mercadona-precios
-Scraper mercadona (Obtener precios) desarrollado en node.
+Scraper mercadona (obtener precios) desarrollado en node.
 
 ![prueba](https://github.com/user-attachments/assets/cef88ca6-d501-4117-adb5-6124cb953012)
 
