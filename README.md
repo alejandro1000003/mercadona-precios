@@ -9,5 +9,5 @@ El script incluye algunas cookies generadas automáticamente por el sitio web de
 2. Ejecuta el script usando Node.js.
 
 ## Requisitos
-- "playwright@1.46.0
+- playwright 1.46.0
 - node v16.20.2 o superior
