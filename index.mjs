@@ -3,6 +3,8 @@ import { firefox } from 'playwright';
 async function obtenerPrecio() {
     console.log("Cargando páginas...") // mensaje opcional decorativo
 
+    // Iniciar Firefox y configurar navegador ⬇️
+    
     // Lanzar Firefox con interfaz gráfica
     const browser = await firefox.launch({ headless: true });
 
@@ -20,7 +22,7 @@ async function obtenerPrecio() {
         { name: '__mo_da', value: '{"warehouse":"bcn1","postalCode":"08002"}', domain: 'tienda.mercadona.es', path: '/' }
     ]);
 
-    // Navegar a la URL del producto
+    // Navegar a la URL del producto ⬇️
 
     // Array de enlaces de productos
     const enlaces = [
