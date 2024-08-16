@@ -6,7 +6,9 @@ El script incluye algunas cookies generadas automáticamente por el sitio web de
 
 ## Uso
 1. Clona el repositorio.
-2. Ejecuta el script usando Node.js.
+2. Instala las dependencias
+3. Ejecuta el script usando Node.js.
+4. Modifica el script para poner tus productos
 
 ## Requisitos
 - playwright 1.46.0
