@@ -1,5 +1,5 @@
 # mercadona-precios
-Scraper mercadona (obtener precios) desarrollado en node.
+Scraper mercadona (obtener precios) desarrollado en node. Este programa está planteado como plantilla para hacer scraping en node no para scrapear mercadona (para eso https://github.com/nicolaspascual/mercadona-scrapper)
 
 ![prueba](https://github.com/user-attachments/assets/cef88ca6-d501-4117-adb5-6124cb953012)
 
